@@ -2,21 +2,27 @@
 
 ## Point projet
 - Je suis sur un gros projet, on est nombreux est ce que c'est interressant de rester dessus
+- Prendre du temps pour être force de proposition 
 - Dois je monter en compétance sur les livraisons, hotfix, fonctionnel
+- 
 
 ## Point compétance technique
-- Formation onepoint
+- Formation onepoint à faire
+- Déjà faites :
+  - Java débutante
+  - Java test
 - Comment progresser en Angular
 - "" frontend
 
 ## Questions
-- Pousser ma conf, participer plus dessus
-- Ton quotidien / Métier
+- Pousser ma conf, participer plus dessus, comment
+- Ton quotidien / Métier?
 - Tu suis des teck, pourquoi et qui?
-- Les rencontres? ou , quoi quand et qui
-- Tu adores quick,/veille est ce que tu as déjà un projet pro dessus
+- Les rencontres, ou? quoi? quand? qui?
+- Tu adores quick, est ce que tu as déjà un projet pro dessus
+- Question de veille, tu fais comment?
 - Fixé mes objectifs, oui mais quoi, et mes sous objectifs
--  C'est quoi un dev frontend
+-  C'est quoi un dev frontend, les compétances que tu cibles
 
 
 ## Plannification
@@ -25,23 +31,24 @@
 ### Sous objectifs
 
 ## Ressources
-  - Des livres
-  - podcast
-  - youtube
-  - article
-
+  - Livres
+  - Podcast
+  - Youtube
+  - Article
+  - Site web
 
 ## Point fort
 - Réactif
+- Adaptable rapidement
 
 ## Point faible
 - Communication teams
 
 ## Autre
-- cour
-- qualif
-- formation
-- conférence
+- cour onepoint
+- qualifs
+- formations
+- conférences
 - Relecture de PR
 - Augmenter ma visibilité
 
