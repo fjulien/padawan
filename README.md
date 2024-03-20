@@ -12,10 +12,13 @@ Du 12.03.2024 au 12.09.2024
 - [ ] S18: 29-5 mai 2024
 - [ ] S19: 6-12 mai 2024
 - [ ] S20: 13-19 mai 2024
+  - vendredi 17: Formation prise de parole fondamentaux
 - [ ] S21: 20-26 mai 2024
   - Point de suivi 1
+  - vendredi 24: Formation prise de parole avancée
 - [ ] S22: 27-2 juin 2024
 - [ ] S23: 3-9 juin 2024
+  - mardi 4: EventTeck front
 - [ ] S24: 10-16 juin 2024
 - [ ] S25: 17-23 juin 2024
 - [ ] S26: 24-30 juin 2024
