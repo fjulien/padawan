@@ -40,6 +40,8 @@
 
 - open source
 
+- certification 
+
 - Amélioration d'en argumentation sur mes idée/débat, échanges d'idées
 
 ### Sous objectifs
