@@ -28,6 +28,18 @@
 ## Plannification
 ### Feedbacks
 ### Objectifs
+- Progression technique
+- - Projet
+- - Externe
+
+- Conférences
+- - Donner une conf
+- - plus implication SOD
+ 
+- Veille tech
+
+- Amélioration d'en argumentation sur mes idée/débat, échanges d'idées
+
 ### Sous objectifs
 
 ## Ressources
