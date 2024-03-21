@@ -37,13 +37,6 @@
   - Article
   - Site web
 
-## Point fort
-- Réactif
-- Adaptable rapidement
-
-## Point faible
-- Communication teams
-
 ## Autre
 - cour onepoint
 - Retours de ma conf
