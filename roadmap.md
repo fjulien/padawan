@@ -61,6 +61,10 @@
 - conférences
 - Relecture de PR
 - Augmenter ma visibilité
+- faire une interview de Christophe 
+- creer un site programme padawan
+- deadline des sous des objectifs
+- 
 
 
 
