@@ -31,6 +31,8 @@
 - Progression technique
 - - Projet
 - - Externe
+- - point technique 
+- - - quiz frontend avec outil vu à une conf
 
 - Conférences
 - - Donner une conf
