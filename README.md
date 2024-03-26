@@ -33,3 +33,6 @@ Du 12.03.2024 au 12.09.2024
 - [ ] S35: 26-1 septembre 2024
 - [ ] S36: 2-8 septembre 2024
 - [ ] S37: 9-15 septembre 2024
+  - [ ] Objectif communication
+  - [ ] Objectif conférence
+  - [ ] Objectif technique
