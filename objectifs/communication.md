@@ -7,6 +7,9 @@
 
 ## 🔳 Augmenter ma visibilité
 
+- [ ] Poster sur des plateformes comme medium, dev, ...
+- [ ] Poster sur des réseaux sociaux comme Linkedin, ...
+
 ## 🔳 Interview de Christophe
 
 - [ ] Création d'un questionnaire
