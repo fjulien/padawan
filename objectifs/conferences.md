@@ -2,6 +2,8 @@
 
 ## 🔳 Participer à plus de conférence
 
+Donner une conférence permet de partager mes connaissances, d'inspirer le public, de renforcer ma crédibilité, de développer mon réseau professionnel, et d'augmenter ma visibilité dans son domaine d'expertise.
+
 ### Soumition
 
 - [x] Poster à Devfest Lille
