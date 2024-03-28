@@ -4,7 +4,10 @@ Du 12.03.2024 au 12.09.2024
 
 - [x] S11: 11-17 mars 2024
 - [x] S12: 18-24 mars 2024
+  - 🎙️ Poster à DEVFEST LILLE
+  - 🎙️ Poster à DEVQUEST
 - [ ] S13: 25-31 mars 2024
+  - 🎙️ Poster à Volcamp
   - 🗣️ Feedbacks
 - [ ] S14: 1-7 avril 2024
 - [ ] S15: 8-14 avril 2024
