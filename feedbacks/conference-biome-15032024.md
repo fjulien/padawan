@@ -1,5 +1,14 @@
 # Retours de SOD du vendredi 15 mars via [openfeedback](https://openfeedback.io/k2lAdlmSTPWkl7NS8xO9)
 
+## Résume de neo
+
+Il semble y avoir un consensus sur le fait que la présentation a été perçue comme étant plus axée sur un outil que sur une bibliothèque, ce qui a pu surprendre certains participants. Certains auraient aimé voir des cas concrets pour mieux comprendre les différences d'analyse entre l'outil et une bibliothèque, et auraient trouvé cela plus intéressant. Enfin, il est mentionné que la présentation a suscité de l'intérêt malgré ces points, ce qui est positif.
+
+### Points d'améliorations
+
+- Perception d'un outil plutôt que d'une bibliothèque
+- Manque de cas concrets
+
 ## Rapide
 
 - Super intéressant 👍 -> 16 votes
