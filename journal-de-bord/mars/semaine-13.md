@@ -1,6 +1,6 @@
-# Semaine 13 
+# Semaine 13
 
-## 
+## Cette semaine a été
 
 ## Objectifs
 
@@ -10,7 +10,12 @@
 - [ ] Demander des formations, certifications, veille à Christophe
 - [ ] Parler de ma conférence Biome
 
-## Resume
+## Notes
+
+## Événements marquants
+
+## Resumé de la semaine
 
 ### Outils
+
 Méteo: 🌞⛅🌦️🌧️⛈️🌈🌕
