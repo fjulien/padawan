@@ -72,4 +72,5 @@
 - faire une interview de Christophe
 - creer un site programme padawan
 - deadline des sous des objectifs
+- https://github.com/rust-lang/rustlings
 -
