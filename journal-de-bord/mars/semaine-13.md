@@ -12,6 +12,8 @@
 
 ## Notes
 
+Benjamin LEGRAND (onepoint) - Angular Devs France - https://www.youtube.com/watch?v=gJZpreOyqMA&t=96s
+
 ## Événements marquants
 
 ## Resumé de la semaine
