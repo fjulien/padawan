@@ -14,6 +14,7 @@ Du 12.03.2024 au 12.09.2024
 - [ ] S16: 15-21 avril 2024
 - [ ] S17: 22-28 avril 2024
   - 🗣️ Feedbacks
+  - [ ] 🔧 Partage d'une veille
   - [ ] 🎭 Interview de Christophe
 - [ ] S18: 29-5 mai 2024
 - [ ] S19: 6-12 mai 2024
@@ -26,6 +27,7 @@ Du 12.03.2024 au 12.09.2024
   - 🎙️ vendredi 24: Formation prise de parole avancée
 - [ ] S22: 27-2 juin 2024
   - 🗣️ Feedbacks
+  - [ ] 🔧 Partage d'une veille
   - [ ] 🎙️ Poster à un meetup
 - [ ] S23: 3-9 juin 2024
   - 🎙️ mardi 4: EventTeck front
@@ -33,11 +35,13 @@ Du 12.03.2024 au 12.09.2024
 - [ ] S25: 17-23 juin 2024
 - [ ] S26: 24-30 juin 2024
   - 🗣️ Feedbacks
+  - [ ] 🔧 Partage d'une veille
 - [ ] S27: 1-7 juillet 2024
 - [ ] S28: 8-14 juillet 2024
 - [ ] S29: 15-21 juillet 2024
 - [ ] S30: 22-28 juillet 2024
   - 🗣️ Feedbacks
+  - [ ] 🔧 Partage d'une veille
   - [ ] 🔧 Animer un point technique
   - [ ] 🔧 Donner une formation interne
   - [ ] 🔧 Faire une qualification technique
@@ -46,6 +50,7 @@ Du 12.03.2024 au 12.09.2024
 - [ ] S33: 12-18 août 2024
 - [ ] S34: 19-25 août 2024
   - 🗣️ Feedbacks
+  - [ ] 🔧 Partage d'une veille
   - [ ] 🔧 Participer à un projet open source
   - [ ] 🔧 Mettre en place une veille efficace
 - [ ] S35: 26-1 septembre 2024
