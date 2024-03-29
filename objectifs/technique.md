@@ -33,7 +33,7 @@ La veille technique permet de rester à jour sur les dernières tendances, d'ant
 
 ## 🔳 Certifications/Formations
 
-Passer des certificats permet de valider des compétences, d'augmenter ma crédibilité professionnelle et de renforcer ma confiance en soi .
+Passer des certificats permet de valider des compétences, d'augmenter ma crédibilité professionnelle et de renforcer ma confiance en soi.
 
 - [ ] Faire une liste
 - [ ] Planification
