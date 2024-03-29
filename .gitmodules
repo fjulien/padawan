@@ -1,6 +1,6 @@
 [submodule "programme-jedi-padawan"]
-	path = ./projets/programme-jedi-padawan
+	path = projets/programme-jedi-padawan
 	url = https://github.com/fjulien/programme-jedi-padawan.git
 [submodule "rustlings"]
-	path = ./projets/rustlings
+	path = projets/rustlings
 	url = https://github.com/fjulien/rustlings.git
