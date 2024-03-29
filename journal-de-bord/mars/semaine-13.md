@@ -4,8 +4,8 @@
 
 ## Objectifs
 
-- [ ] Finir la description de mes objectifs Padawan, bien les définir en utilisant SMART
-- [x] Poster mon sujet de conférence à Lille, Niort et volcamp.
+- [x] Finir la description de mes objectifs Padawan, bien les définir en utilisant SMART
+- [x] Poster mon sujet de conférence à Lille, Niort et Volcamp.
 - [ ] Partager mes objectifs sur la conversation Padawan
 - [ ] Demander des formations, certifications, veille à Christophe
 - [ ] Parler de ma conférence Biome
@@ -16,8 +16,8 @@ Benjamin LEGRAND (onepoint) - Angular Devs France - <https://www.youtube.com/wat
 
 ## Événements marquants
 
-## Resumé de la semaine
+## Résumé de la semaine
 
 ### Outils
 
-Méteo: 🌞⛅🌦️🌧️⛈️🌈🌕
+Météo: 🌞⛅🌦️🌧️⛈️🌈🌕
