@@ -9,6 +9,7 @@ Du 12.03.2024 au 12.09.2024
 - [ ] S13: 25-31 mars 2024
   - 🎙️ Poster à Volcamp
   - 🎙️ Poster à Breizhcamp
+  - Partage de mon projet
   - 🗣️ Feedbacks
 - [ ] S14: 1-7 avril 2024
 - [ ] S15: 8-14 avril 2024

@@ -1,13 +1,13 @@
 # Semaine 13
 
-## Cette semaine a été
+## Cette semaine a été 🌈
 
 ## Objectifs
 
 - [x] Finir la description de mes objectifs Padawan, bien les définir en utilisant SMART
 - [x] Poster mon sujet de conférence à Lille, Niort et Volcamp.
-- [ ] Partager mes objectifs sur la conversation Padawan
-- [ ] Demander des formations, certifications, veille à Christophe
+- [x] Partager mes objectifs sur la conversation Padawan
+- [x] Demander des formations, certifications, veille à Christophe
 - [ ] Parler de ma conférence Biome
 
 ## Notes
