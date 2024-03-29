@@ -4,7 +4,7 @@
 
 ## Objectifs
 
-- [ ] Finir la description de mes objectifs Padawan, bien les définirs en utilsant SMART
+- [ ] Finir la description de mes objectifs Padawan, bien les définir en utilisant SMART
 - [x] Poster mon sujet de conférence à Lille, Niort et volcamp.
 - [ ] Partager mes objectifs sur la conversation Padawan
 - [ ] Demander des formations, certifications, veille à Christophe
@@ -12,7 +12,7 @@
 
 ## Notes
 
-Benjamin LEGRAND (onepoint) - Angular Devs France - https://www.youtube.com/watch?v=gJZpreOyqMA&t=96s
+Benjamin LEGRAND (onepoint) - Angular Devs France - <https://www.youtube.com/watch?v=gJZpreOyqMA&t=96s>
 
 ## Événements marquants
 

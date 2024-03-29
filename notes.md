@@ -2,11 +2,11 @@
 
 ## Point projet
 
-- Je suis sur un gros projet, on est nombreux est ce que c'est interressant de rester dessus
+- Je suis sur un gros projet, on est nombreux est ce que c'est intéressant de rester dessus
 - Prendre du temps pour être force de proposition
-- Dois je monter en compétance sur les livraisons, hotfix, fonctionnel
+- Dois je monter en compétence sur les livraisons, hotfix, fonctionnel
 
-## Point compétance technique
+## Point compétence technique
 
 - Formation onepoint à faire
 - Déjà faites :
@@ -24,9 +24,9 @@
 - Tu adores quick, est ce que tu as déjà un projet pro dessus
 - Question de veille, tu fais comment?
 - Fixé mes objectifs, oui mais quoi, et mes sous objectifs
-- C'est quoi un dev frontend, les compétances que tu cibles
+- C'est quoi un dev frontend, les compétences que tu cibles
 
-## Plannification
+## Planification
 
 ### Feedbacks
 
@@ -56,7 +56,7 @@
 
 - Livres
 - Podcast
-- Youtube
+- YouTube
 - Article
 - Site web
 
@@ -70,7 +70,7 @@
 - Relecture de PR
 - Augmenter ma visibilité
 - faire une interview de Christophe
-- creer un site programme padawan
+- créer un site programme padawan
 - deadline des sous des objectifs
-- https://github.com/rust-lang/rustlings
+- <https://github.com/rust-lang/rustlings>
 -
