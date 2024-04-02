@@ -16,7 +16,12 @@ Benjamin LEGRAND (onepoint) - Angular Devs France - <https://www.youtube.com/wat
 
 ## Événements marquants
 
+- Changement de projet de Paul
+- Fin de ma planification de mes objectifs
+
 ## Résumé de la semaine
+
+Content d'avoir bien une liste d'objectifs complètes sur des sujets qui me motivent. Faut que je reste assidu car j'ai plein de sujet et comme toujours le temps passe vite.
 
 ### Outils
 
