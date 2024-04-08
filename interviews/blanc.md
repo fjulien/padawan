@@ -25,6 +25,7 @@
 - Quel est le dernier livre ou article sur le développement logiciel que tu as lu et que tu recommanderais ?
 - Quelle est ta plus grande réussite en dehors du domaine du développement informatique ?
 - Si tu pouvais remonter dans le temps et donner un conseil à ton "moi" plus jeune, quel serait-il ?
+- Si tu pourrai changer/ajouter un truck sur js c'est quoi?
 
 - Quelles sont les technologies ou langages de programmation que tu maîtrises particulièrement bien ?
 - Peux-tu nous parler d'un projet complexe sur lequel tu as travaillé et nous expliquer les défis techniques que tu as - rencontrés ?
