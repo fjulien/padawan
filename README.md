@@ -13,7 +13,7 @@ Du 12.03.2024 au 12.09.2024
   - 🗣️ Feedbacks
 - [x] S14: 1-7 avril 2024
 - [ ] S15: 8-14 avril 2024
-  - 🎙️ vendredi 17: Formation feedbacks
+  - 🎙️ jeudi 11 : Formation feedbacks
 - [ ] S16: 15-21 avril 2024
 - [ ] S17: 22-28 avril 2024
   - 🗣️ Feedbacks
@@ -22,12 +22,12 @@ Du 12.03.2024 au 12.09.2024
 - [ ] S18: 29-5 mai 2024
 - [ ] S19: 6-12 mai 2024
 - [ ] S20: 13-19 mai 2024
-  - 🎙️ vendredi 17: Formation prise de parole fondamentaux
+  - 🎙️ vendredi 17 : Formation prise de parole fondamentaux
 - [ ] S21: 20-26 mai 2024
   - [ ] 🎭 Poster un article
   - [ ] 🎭 Partager sur linkedin l'article
   - Point de suivi 1
-  - 🎙️ vendredi 24: Formation prise de parole avancée
+  - 🎙️ vendredi 24 : Formation prise de parole avancée
 - [ ] S22: 27-2 juin 2024
   - 🗣️ Feedbacks
   - [ ] 🔧 Partage d'une veille
@@ -35,6 +35,7 @@ Du 12.03.2024 au 12.09.2024
 - [ ] S23: 3-9 juin 2024
   - 🎙️ mardi 4: EventTeck front
 - [ ] S24: 10-16 juin 2024
+  - Mardi 18 : Sensibilisation à la rédaction de contenu
 - [ ] S25: 17-23 juin 2024
 - [ ] S26: 24-30 juin 2024
   - 🗣️ Feedbacks
