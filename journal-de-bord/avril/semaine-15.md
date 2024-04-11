@@ -10,6 +10,7 @@
 ## Notes
 
 ## Événements marquants
+- Formation sur les feedbacks, très enrichissante et je dois trouver comment donner et avoir de feelbacks, je pense que ça fait partie de mon rôle de leadteck
 
 ## Résumé de la semaine
 
