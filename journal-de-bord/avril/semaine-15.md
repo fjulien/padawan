@@ -11,6 +11,7 @@
 
 ## Événements marquants
 - Formation sur les feedbacks, très enrichissante et je dois trouver comment donner et avoir de feelbacks, je pense que ça fait partie de mon rôle de leadteck
+- Entraînement de la conférence de Damien sur la documentation technique
 
 ## Résumé de la semaine
 
