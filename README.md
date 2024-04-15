@@ -12,7 +12,7 @@ Du 12.03.2024 au 12.09.2024
   - Partage de mon projet
   - 🗣️ Feedbacks
 - [x] S14: 1-7 avril 2024
-- [ ] S15: 8-14 avril 2024
+- [x] S15: 8-14 avril 2024
   - 🎙️ jeudi 11 : Formation feedbacks
 - [ ] S16: 15-21 avril 2024
 - [ ] S17: 22-28 avril 2024
