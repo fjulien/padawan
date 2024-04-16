@@ -8,13 +8,12 @@
 
 ## Notes
 
+- onemaze
 
 ## Événements marquants
 
 ## Résumé de la semaine
 
 ### Outils
-
-
 
 Météo: 🌞⛅🌦️🌧️⛈️🌈🌕
