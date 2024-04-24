@@ -4,7 +4,7 @@
 
 ## Objectifs
 
-- [] Finir l'interview
+- [ ] Finir l'interview
 
 ## Notes
 
