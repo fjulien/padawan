@@ -74,3 +74,19 @@
 - deadline des sous des objectifs
 - <https://github.com/rust-lang/rustlings>
 -
+
+article du site pjp :
+commencer avec leptos rust
+ apprendre rust
+pb de ressourse image, theme pas inspiere
+recherche d un theme sur astro car ...
+theme brutaliste simpa
+creation de l'image 
+travaille sur la fresque agenda
+aprrendre css grid
+apprendre tailwind
+gitpages jusqu'à plus de bugjet
+modification de l'action github
+
+
+
